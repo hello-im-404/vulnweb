@@ -10,5 +10,6 @@ python3 app.py
 ```
 
 ### requirements:
-flask
+flask  
+
 brain(optional)
