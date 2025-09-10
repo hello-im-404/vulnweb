@@ -1,6 +1,6 @@
 ## This site is made for those who are just starting to learn SQL injection, but if you need something more serious - set up a test machine.
 
-# ! ! ! Education purposes only ! ! !
+# ! ! ! Educational purposes only ! ! !
 
 # INSTALLATION:
 ```bash
