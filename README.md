@@ -11,7 +11,7 @@ python3 init_db.py
 ## To run execute app.py:
 ```bash
 python3 app.py
-
+```
 
 ### requirements:
 flask  
