@@ -23,9 +23,9 @@ def init_db():
         (2, 'user1', 'user1@test.com'),
         (3, 'test', 'test@domain.com'),
         (4, 'alice', 'alice@wonderland.com'),
-        (5, 'bob', 'bob@builder.com')
-		(6, 'user15', 'mail@mainmail.en')
-		(7, 'deepseek', 'deepseek@dpsk.com')
+        (5, 'bob', 'bob@builder.com'),
+		(6, 'user15', 'mail@mainmail.en'),
+		(7, 'deepseek', 'deepseek@dpsk.com'),
 		(8, 'github', 'github@git.com')
     ]
     
